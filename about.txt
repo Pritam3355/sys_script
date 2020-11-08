@@ -1,0 +1,1 @@
+This script prints cpu & memmory info at a 5 second intervals
